@@ -29,6 +29,8 @@ SnapCard does not include advertising SDKs or our own analytics service.
 
 ## 5. Exports, links, and platform services
 
+The in-app Privacy Policy and User Agreement pages are hosted by GitHub and loaded over the internet in an embedded system WebView. When you open either page, GitHub may receive ordinary web-request information such as your IP address, browser or device user agent, request time, and cookies according to GitHub's privacy practices. SnapCard does not add tracking scripts to these pages.
+
 If you export a backup, use a system share sheet, open a saved link, or otherwise send content to another app or service, your chosen destination may receive that content and its privacy policy applies. Apple, Google, and your device or app-store provider may independently process purchase, download, crash, or device information under their own terms; we do not control those platform services.
 
 ## 6. Retention and deletion
@@ -62,4 +64,3 @@ All Good Things Always, LLC
 Moreno Valley, CA 92551-2410  
 United States  
 Email: danczakeli3@gmail.com
-

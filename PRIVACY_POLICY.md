@@ -1,3 +1,6 @@
+---
+---
+
 # SnapCard Privacy Policy
 
 **Effective date: August 14, 2026**

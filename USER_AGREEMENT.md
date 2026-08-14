@@ -1,3 +1,6 @@
+---
+---
+
 # SnapCard User Agreement
 
 **Effective date: August 14, 2026**
@@ -71,4 +74,3 @@ All Good Things Always, LLC
 Moreno Valley, CA 92551-2410  
 United States  
 Email: danczakeli3@gmail.com
-

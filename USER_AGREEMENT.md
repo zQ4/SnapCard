@@ -35,7 +35,7 @@ Some features require photos, camera, microphone, or notification access. You ma
 
 ## 7. Privacy
 
-Our [Privacy Policy](https://github.com/zQ4/SnapCard/blob/main/PRIVACY_POLICY.md) describes information handling and is incorporated into this Agreement.
+Our [Privacy Policy](https://zq4.github.io/SnapCard/PRIVACY_POLICY.html) describes information handling and is incorporated into this Agreement.
 
 ## 8. Updates and availability
 

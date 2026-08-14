@@ -28,7 +28,15 @@ You can deny or revoke permissions in device settings. The related feature may s
 
 SnapCard uses Google ML Kit for text recognition. Image and text inputs and recognition results are processed on-device and are not sent to Google. The ML Kit SDK may periodically contact Google to obtain fixes, model updates, or hardware compatibility information, and may send diagnostic and usage metrics such as device and app information, per-installation identifiers, performance measurements, API configuration, feature event types, and error codes. Google states that this diagnostic data is encrypted in transit and is not transferred to third parties. Google handles that information under its own privacy terms.
 
-SnapCard does not include advertising SDKs or our own analytics service.
+SnapCard does not use the Google Advertising ID to serve personalized ads.
+
+## Google Advertising ID and analytics
+
+On Android devices where it is available, SnapCard may access the Google Advertising ID (also called the Android Advertising ID or AAID) and transmit it to Google Analytics for Firebase together with limited analytics data, such as app version, device and operating-system information, feature interactions, session events, performance information, and crash or diagnostic data. We use this information only to measure aggregate usage, understand feature adoption, monitor app performance, diagnose problems, prevent duplicate counting, and improve SnapCard.
+
+We do not use the Advertising ID to read, identify, or transmit the contents of screenshots, recognized text, cards, voice notes, or backups. We do not use it for personalized advertising, sell it, or link it to a name, email address, account, or non-resettable device identifier.
+
+The Advertising ID is provided by Google Play services and can be reset or deleted through Android's **Settings > Privacy > Ads** controls. If you delete the Advertising ID, Android may return a string of zeros instead. Analytics information is protected in transit and retained only for the period configured for the analytics service and reasonably necessary for the purposes described above. Google's handling of analytics information is governed by Google's applicable terms and privacy policy.
 
 ## 5. Exports, links, and platform services
 

@@ -54,9 +54,7 @@ The Android app uses Firebase Cloud Messaging to support notifications. Firebase
 
 ## 5. Online content, exports, links, and platform services
 
-On Android, SnapCard may request configuration from our service and may open web content returned by that service in an in-app WebView. A website loaded in the WebView may receive ordinary web-request information, including IP address, user agent, request time, cookies, and information you submit to the website. If the website requests a supported native feature, SnapCard may provide notification or media-permission status through the in-app JavaScript bridge. The website's displayed privacy notice and terms apply to its own collection and use of information.
-
-The in-app Privacy Policy and User Agreement pages are hosted by GitHub and loaded over the internet in an embedded system WebView. When you open either page, GitHub may receive ordinary web-request information such as your IP address, browser or device user agent, request time, and cookies according to GitHub's privacy practices. SnapCard does not add tracking scripts to these pages.
+SnapCard may load online pages in an embedded WebView, including the Privacy Policy and User Agreement hosted by GitHub. When you open an online page, its provider may receive ordinary web-request information such as your IP address, browser or device user agent, request time, cookies, and information you choose to submit. A page that uses a supported native feature may also receive the relevant permission or notification status from SnapCard. The provider's privacy notice and terms apply to its own information handling. SnapCard does not add tracking scripts to the GitHub-hosted legal pages.
 
 If you export a backup, use a system share sheet, open a saved link, or otherwise send content to another app or service, your chosen destination may receive that content. Its privacy policy then applies. Apple, Google, and your device or app-store provider may independently process purchase, download, crash, or device information under their own terms; we do not control those platform services.
 

@@ -7,69 +7,87 @@
 
 This User Agreement ("Agreement") is a legal agreement between you and All Good Things Always, LLC ("Company," "we," "us," or "our") governing your use of the SnapCard mobile application ("SnapCard"). By downloading or using SnapCard, you agree to this Agreement. If you do not agree, do not use SnapCard.
 
-## 1. Eligibility and license
+## 1. Eligibility
 
-You must be legally capable of entering this Agreement. Subject to this Agreement and applicable app-store rules, we grant you a limited, personal, revocable, non-exclusive, non-transferable license to install and use SnapCard on devices you own or control for lawful purposes. SnapCard is licensed, not sold. We and our licensors retain all rights not expressly granted.
+You must be legally capable of entering this Agreement. If you use SnapCard on behalf of an organization, you represent that you have authority to bind it. A parent or legal guardian must authorize use by anyone who cannot enter a binding agreement under applicable law.
 
-## 2. The service
+## 2. License
 
-SnapCard locally recognizes text in screenshots and photos and helps turn it into searchable cards. It can store local voice notes, schedule device notifications, and export or restore local backups. SnapCard does not provide an online storage account. Features may differ by device, operating system, language, image quality, and permission settings.
+Subject to this Agreement and applicable app-store rules, we grant you a limited, personal, revocable, non-exclusive, non-transferable license to install and use SnapCard on devices you own or control for lawful purposes. SnapCard is licensed, not sold. We and our licensors retain all rights not expressly granted.
 
-## 3. Your content and responsibilities
+## 3. The service
 
-You retain your rights in screenshots, photos, text, recordings, cards, and other content you use with SnapCard ("Your Content"). We do not claim ownership. You are responsible for having the rights and permissions needed to capture, store, record, process, or share it, including legally required consent to record another person.
+SnapCard locally recognizes text in screenshots and photos and helps turn it into searchable cards. It can also store local voice notes, schedule device notifications, and export or restore local backups. SnapCard does not provide an online storage account. Features may differ by device, operating system, language, image quality, and permission settings.
 
-You must review recognized text and automatically classified fields before relying on them. OCR, classification, dates, addresses, links, account details, and reminders may be incomplete or incorrect. SnapCard is an organizational utility, not a substitute for an original document, professional advice, or an official record.
+## 4. Your content and responsibilities
 
-## 4. Acceptable use
+You retain your rights in screenshots, photos, text, recordings, cards, and other content you use with SnapCard ("Your Content"). We do not claim ownership of Your Content. You are responsible for ensuring that you have the rights and permissions needed to capture, store, record, process, or share it, including the consent of any person whose private information or voice is included.
 
-You may not use SnapCard unlawfully or to violate another person's rights; record anyone without consent required by law; reverse engineer, bypass security, interfere with, or misuse SnapCard except where law expressly permits; distribute, sublicense, rent, sell, or commercially exploit SnapCard itself; or use it to create or distribute malware or unlawful, fraudulent, abusive, or infringing material.
+You are responsible for reviewing recognized text and automatically classified fields before relying on, copying, sharing, or acting on them. OCR, classification, dates, addresses, links, account details, and reminders may be incomplete or incorrect. SnapCard is an organizational utility, not a substitute for an original document, professional advice, or an official record.
 
-## 5. Local storage and backup
+## 5. Acceptable use
 
-Your Content is generally stored on your device. You are responsible for device security and any backup. Uninstalling SnapCard, clearing app data, losing a device, operating-system actions, or deleting an item may permanently remove content. We cannot restore content that was never held by us. An exported backup is governed by the destination service's terms.
+You may not:
 
-## 6. Permissions and third parties
+- use SnapCard or Your Content in violation of law or another person's rights;
+- record a person without any consent required by applicable law;
+- attempt to reverse engineer, bypass security, interfere with, or misuse SnapCard except where applicable law expressly permits;
+- distribute, sublicense, rent, sell, or commercially exploit SnapCard itself; or
+- use SnapCard to create or distribute malware or unlawful, fraudulent, abusive, or infringing material.
 
-Some features require photos, camera, microphone, or notification access. You may revoke permission, but the related feature may become unavailable. SnapCard uses third-party software, including Google ML Kit, and may interact with app stores, operating-system services, and destinations you choose. Their terms and privacy policies may apply.
+## 6. Local storage, backup, and deletion
 
-## 7. Privacy
+Your Content is generally stored on your device. You are responsible for device security and for making and protecting any backup you need. Uninstalling SnapCard, clearing app data, losing or damaging a device, operating-system actions, or deleting an item may permanently remove content. We cannot restore content that was never sent to or held by us. A backup exported to another service is governed by that service's terms and must be managed there.
 
-Our [Privacy Policy](https://zq4.github.io/SnapCard/PRIVACY_POLICY.html) describes information handling and is incorporated into this Agreement.
+## 7. Permissions and third-party services
 
-SnapCard may use the Google Advertising ID on supported Android devices, together with limited app interaction, device, performance, and diagnostic information, solely for aggregate analytics, feature measurement, reliability, and product improvement. It is not used by SnapCard for personalized advertising and is not linked to screenshot contents, recognized text, cards, voice notes, a name, email address, account, or non-resettable device identifier. You can reset or delete the Advertising ID in Android's **Settings > Privacy > Ads** controls. Additional details appear in the Privacy Policy.
+Some features require access to photos, camera, microphone, or notifications. You may revoke permission in device settings, but the related feature may become unavailable. SnapCard uses third-party software and services, including Google ML Kit, Adjust, Google Play services, and Firebase Cloud Messaging, and may interact with app stores, operating-system services, websites, and destinations you choose through links or sharing. Those third parties may apply their own terms and privacy policies. Their services are not controlled by us.
 
-## 8. Updates and availability
+## 8. Privacy
 
-We may update, change, suspend, or discontinue SnapCard or a feature. Updates may be required for security or compatibility. We do not promise that SnapCard will always be available, error-free, or compatible with every device.
+Our [Privacy Policy](https://zq4.github.io/SnapCard/PRIVACY_POLICY.html) describes information handling in SnapCard and is incorporated into this Agreement.
 
-## 9. Disclaimers
+SnapCard may use the Google Advertising ID on supported Android devices together with Adjust attribution information and limited app, device, performance, and diagnostic information for installation attribution, aggregate data analysis, feature measurement, reliability, fraud and duplicate-measurement prevention, and product improvement. It is not used by SnapCard to read screenshot contents or to serve personalized advertising. You can reset or delete the Advertising ID in Android's **Settings > Privacy > Ads** controls. Firebase may process an app-installation identifier and messaging token to provide notifications. Additional details appear in the Privacy Policy.
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, SNAPCARD IS PROVIDED "AS IS" AND "AS AVAILABLE." WE DISCLAIM ALL EXPRESS, IMPLIED, AND STATUTORY WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AND DATA PRESERVATION. WE DO NOT WARRANT THAT RECOGNITION, CLASSIFICATION, LINKS, REMINDERS, RECORDINGS, OR BACKUPS WILL BE ACCURATE, COMPLETE, SECURE, OR UNINTERRUPTED. Some jurisdictions do not allow certain exclusions.
+## 9. Updates and availability
 
-## 10. Limitation of liability
+We may update, change, suspend, or discontinue SnapCard or a feature. Updates may be required for security, compatibility, or continued use. We do not promise that SnapCard will always be available, error-free, or compatible with every device or operating-system version.
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COMPANY AND ITS MEMBERS, MANAGERS, EMPLOYEES, CONTRACTORS, LICENSORS, AND SERVICE PROVIDERS WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR LOSS OF DATA, PROFITS, REVENUE, BUSINESS, OPPORTUNITY, OR GOODWILL, ARISING FROM SNAPCARD OR THIS AGREEMENT.
+## 10. Disclaimers
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY WILL NOT EXCEED THE GREATER OF THE AMOUNT YOU PAID FOR SNAPCARD DURING THE 12 MONTHS BEFORE THE CLAIM OR US$10. These limits do not apply where liability cannot legally be limited, including mandatory consumer rights.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, SNAPCARD IS PROVIDED "AS IS" AND "AS AVAILABLE." WE DISCLAIM ALL EXPRESS, IMPLIED, AND STATUTORY WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AND DATA PRESERVATION. WE DO NOT WARRANT THAT RECOGNITION, CLASSIFICATION, LINKS, REMINDERS, RECORDINGS, OR BACKUPS WILL BE ACCURATE, COMPLETE, SECURE, OR UNINTERRUPTED. Some jurisdictions do not allow certain warranty exclusions, so some exclusions may not apply to you.
 
-## 11. Indemnity and termination
+## 11. Limitation of liability
 
-To the extent permitted by law, you will indemnify the Company from third-party claims and reasonable costs arising from Your Content, unlawful use, or material breach, except to the extent caused by our unlawful conduct. You may end this Agreement by stopping use and uninstalling SnapCard. We may terminate the license if you materially breach it. Provisions intended to survive will survive.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COMPANY AND ITS MEMBERS, MANAGERS, EMPLOYEES, CONTRACTORS, LICENSORS, AND SERVICE PROVIDERS WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS, REVENUE, BUSINESS, OPPORTUNITY, OR GOODWILL, ARISING FROM SNAPCARD OR THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY.
 
-## 12. Governing law and disputes
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY FOR ALL CLAIMS RELATING TO SNAPCARD OR THIS AGREEMENT WILL NOT EXCEED THE GREATER OF THE AMOUNT YOU PAID FOR SNAPCARD DURING THE 12 MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM OR US$10. These limits do not apply where liability cannot legally be limited, including rights you may have under applicable consumer law.
 
-California law governs, without regard to conflict-of-law principles, except where mandatory law of your residence applies. Subject to that law, courts in Riverside County, California have exclusive jurisdiction. Before filing a claim, both parties will make a good-faith effort for 30 days to resolve it informally by email. Either party may seek emergency relief or use eligible small-claims court.
+## 12. Indemnity
 
-## 13. App-store terms
+To the extent permitted by law, you will defend, indemnify, and hold the Company harmless from third-party claims, losses, and reasonable costs arising from Your Content, your unlawful or unauthorized use of SnapCard, or your material breach of this Agreement. This section does not apply to the extent a claim was caused by the Company's own unlawful conduct or where prohibited by applicable law.
 
-Applicable Apple App Store or Google Play terms also apply. A store provider is not responsible for maintenance or support except as required by law and may be a third-party beneficiary as its terms provide. Mandatory store terms control in case of conflict.
+## 13. Termination
 
-## 14. Changes and general terms
+You may end this Agreement by stopping use and uninstalling SnapCard. We may terminate the license if you materially breach this Agreement. Upon termination, your right to use SnapCard ends. Sections that by their nature should survive—including ownership, disclaimers, liability limits, and governing law—will survive.
 
-We may update this Agreement, revise the effective date, and post the updated version here. This Agreement and the Privacy Policy are the entire agreement about SnapCard. If a provision is unenforceable, the remainder stays effective. Failure to enforce is not a waiver. You may not assign this Agreement without consent; we may assign it in connection with a merger, reorganization, asset transfer, or by operation of law.
+## 14. Governing law and disputes
 
-## 15. Contact
+This Agreement is governed by the laws of the State of California, without regard to conflict-of-law principles, except where the mandatory law of your residence applies. Subject to such mandatory law, courts located in Riverside County, California will have exclusive jurisdiction over disputes arising from this Agreement. Before filing a claim, you and the Company agree to make a good-faith effort for 30 days to resolve it informally by emailing the contact below. Nothing here prevents either party from seeking emergency injunctive relief or using an eligible small-claims court.
+
+## 15. App-store terms
+
+If you obtained SnapCard from Apple App Store or Google Play, the applicable store terms also apply. The store provider is not responsible for providing maintenance or support except as required by law, and is a third-party beneficiary of this Agreement to the extent provided by its terms. If this Agreement conflicts with mandatory store terms, those store terms control.
+
+## 16. Changes
+
+We may update this Agreement. We will revise the effective date and make the updated version available at the same public location. Your continued use after an update becomes effective constitutes acceptance where permitted by law. If applicable law requires another form of consent, we will request it.
+
+## 17. General
+
+This Agreement and the Privacy Policy are the entire agreement about SnapCard and supersede prior statements on the same subject. If a provision is unenforceable, it will be modified to the minimum extent necessary and the remaining provisions remain effective. Our failure to enforce a provision is not a waiver. You may not assign this Agreement without our consent; we may assign it as part of a merger, reorganization, asset transfer, or by operation of law.
+
+## 18. Contact
 
 All Good Things Always, LLC  
 25273 Aspen Glen Ave  

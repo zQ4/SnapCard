@@ -34,6 +34,8 @@ Some features require photos, camera, microphone, or notification access. You ma
 
 Our [Privacy Policy](https://zq4.github.io/SnapCard/PRIVACY_POLICY.html) describes information handling and is incorporated into this Agreement.
 
+SnapCard may use the Google Advertising ID on supported Android devices, together with limited app interaction, device, performance, and diagnostic information, solely for aggregate analytics, feature measurement, reliability, and product improvement. It is not used by SnapCard for personalized advertising and is not linked to screenshot contents, recognized text, cards, voice notes, a name, email address, account, or non-resettable device identifier. You can reset or delete the Advertising ID in Android's **Settings > Privacy > Ads** controls. Additional details appear in the Privacy Policy.
+
 ## 8. Updates and availability
 
 We may update, change, suspend, or discontinue SnapCard or a feature. Updates may be required for security or compatibility. We do not promise that SnapCard will always be available, error-free, or compatible with every device.
